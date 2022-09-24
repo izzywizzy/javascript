@@ -2,7 +2,13 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "js-projects-with-angela",
+			"path": "js-projects-with-angela"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-projects-with-angela"
+	}
 }
