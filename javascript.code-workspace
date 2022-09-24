@@ -2,10 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"name": "js-projects-with-angela",
-			"path": "js-projects-with-angela"
 		}
 	],
 	"settings": {
